@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923196057528'] //ur owner number
-global.ownername = "𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓" //ur owner name
+global.owner = ['923302192661'] //ur owner number
+global.ownername = "𝑆𝛥𝛥𝐷 𝛧𝛥𝑅𝑅𝛥𝛫" //ur owner name
 global.ytname = "YT: Malik AR" //ur yt chanel name
 global.socialm = "GitHub: nimaofficial" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "923196057528" //ur number
-global.premium = ['923196057528'] //ur premium number
-global.botname = '𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓' //ur bot name
+global.ownernomer = "923302192661" //ur number
+global.premium = ['923302192661'] //ur premium number
+global.botname = '𝑆𝛥𝛥𝐷 𝛧𝛥𝑅𝑅𝛥𝛫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fx6Q8AZPVEb1ioBHGUA2si" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By 𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓" //ur sticker watermark packname
+global.packname = "Sticker By 𝑆𝛥𝛥𝐷 𝛧𝛥𝑅𝑅𝛥𝛫" //ur sticker watermark packname
 global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓 𝗜𝗡𝗖" //ur watermark
+global.wm = "𝑆𝛥𝛥𝐷 𝛧𝛥𝑅𝑅𝛥𝛫 𝗜𝗡𝗖" //ur watermark
 
 // Other
 global.sessionName = 'session'
